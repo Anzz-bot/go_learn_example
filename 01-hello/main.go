@@ -10,9 +10,7 @@ func main() {
 
 
 
-////////////////func print(i int) {
-////////////////	fmt.Println("hello world", i)
-////////////////}
+
 ////////////////func main() {
 ////////////////	for i := 0; i < 5; i++ {
 ////////////////		go func(j int) {
