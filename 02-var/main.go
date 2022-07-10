@@ -1,11 +1,6 @@
 
 
-//	var d = true
-//
-//	var e float64
-//
-//	f := float32(e)
-//
+
 //	g := a + "foo"
 //	fmt.Println(a, b, c, d, e, f) // initial 1 2 true 0 0
 //	fmt.Println(g)                // initialapple
