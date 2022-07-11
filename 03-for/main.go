@@ -1,16 +1,4 @@
 
-//
-//	for n := 0; n < 5; n++ {
-//		if n%2 == 0 {
-//			continue
-//		}
-//		fmt.Println(n)
-//	}
-//	for i <= 3 {
-//		fmt.Println(i)
-//		i = i + 1
-//	}
-//}
 package main
 
 import "fmt"
