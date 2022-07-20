@@ -10,17 +10,7 @@ func main() {
 
 
 
-////	wg.Wait()
-////	fmt.Println(x)
-////	x = 0
-////	wg.Add(5)
-////	for i := 0; i < 5; i++ {
-////		go func() {
-////			addwithoutsync()
-////			defer wg.Done()
-////		}()
-////
-////	}
+
 ////	wg.Wait()
 ////	fmt.Println(x)
 ////
