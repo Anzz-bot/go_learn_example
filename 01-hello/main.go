@@ -11,21 +11,3 @@ func main() {
 
 
 
-////	wg.Wait()
-////	fmt.Println(x)
-////
-////}
-//package main
-//
-//import (
-//	"fmt"
-//	"reflect"
-//)
-//
-//func main() {
-//	var a float32
-//	var b float32
-//	fmt.Println(reflect.TypeOf(a).Name())
-//	fmt.Println(reflect.TypeOf(b).Name())
-//	fmt.Println(a / b)
-//}
