@@ -5,6 +5,7 @@ import (
 	"math"
 )
 
+
 func main() {
 	var a string = "initial"
 	var b int = 1
