@@ -6,6 +6,7 @@ import (
 	"time"
 )
 
+
 func main() {
 	a := 2
 	switch a {
